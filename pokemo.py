@@ -9,4 +9,4 @@ print(mi_diccionario["results"][0])
 
 resultados = mi_diccionario ["results"]
 for resultado in resultados:
-    print(resultado)
+    print(resultado["name"])
